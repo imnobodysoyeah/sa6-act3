@@ -1,0 +1,1 @@
+I made commits for every problem, but also my computer made a .DS_Store file that I can't even see so just ignore that. I don't know how it got added in my commit, because it didn't show it when I checked the status beforehand.
